@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environments
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+# Data and submissions
+data/*.json
+data/*.zip
+submission.json
+working/
+*.safetensors
+*.bin
+documentation/
+
+# Logs / temp
+*.log
+reports/*.csv
+reports/*.log
+reports/submission6.json
+.DS_Store
+
+# Kaggle
+/kaggle/
+/kaggle/working/
+/kaggle/input/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_checkpoint
+miscellaneous/
+touch data/.gitkeep
+data/arc-agi_*.json
+data/sample_submission.json
