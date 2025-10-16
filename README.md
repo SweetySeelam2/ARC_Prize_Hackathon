@@ -66,7 +66,9 @@ ARC_Prize_Hackathon/
 ├─ images/                             
   └─kaggle_submissions.png
 
-> **Note:** `data/` and submission artifacts are **ignored** from git.
+> **Note:** `data/` and submission artifacts are **ignored** from git.                                    
+> ⚠️ Data Note: Due to Kaggle competition rules, ARC Prize 2025 datasets are **not included** in this repository.                                
+> Please download them directly from the competition page and place them under `/data/` before running notebooks.                        
 
 ---
 
