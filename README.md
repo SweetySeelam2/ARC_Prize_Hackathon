@@ -1,6 +1,6 @@
-# ARC Prize 2025 — Heuristic + CC Solver (WIP)
+# ARC Prize 2025 - Heuristic + CC Solver (WIP)
 
-> **Status:** 🟢 Actively competing in Kaggle’s ARC Prize 2025 — repo updated continuously  
+> **Status:** 🟢 Actively competing in Kaggle’s ARC Prize 2025 - repo updated continuously  
 > **Latest public score:** 0.00 (early iterations; focusing on correctness/format + generalization)  
 > **Notebook:** `notebooks/ARC_Prize_2025_Submission.ipynb`
 
